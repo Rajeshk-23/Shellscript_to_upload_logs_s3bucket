@@ -1,6 +1,7 @@
 #!/bin/bash
 #Author:Rajesh kumar kurnuthala
 # Variables
+
 JENKINS_HOME="/var/lib/jenkins"  # Replace with your Jenkins home directory
 S3_BUCKET="s3://your-s3-bucket-name"  # Replace with your S3 bucket name
 DATE=$(date +%Y-%m-%d)  # Today's date
